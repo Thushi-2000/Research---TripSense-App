@@ -1,4 +1,4 @@
-# SentimentMap Mobile App
+# TripSense Mobile App
 
 AI-powered tourism sentiment analysis mobile application that visualizes research outputs from "Sarcasm-Aware Multimodal Location-Based Sentiment Analysis for Tourism".
 
